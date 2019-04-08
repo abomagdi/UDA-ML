@@ -1,5 +1,6 @@
 ud120-projects
 ==============
 
-Starter project code for students taking Udacity ud120
+This repository contains files for Udacity Machine Learning Course
+
 # UDA-ML
